@@ -5,13 +5,7 @@
 
 	This is a simple AI agent that uses a neural network to predict the AQI (Air Quality Index) based on historical data.
 	The agent is trained using the Keras library and the TensorFlow backend.
-## Requirements		- Python 3.6 or later		- Keras		- TensorFlow		- Pandas		- Numpy		- Matplotlib		- Scikit-learn		- Jupyter Notebook
-
-## Usage					To use this agent, you will need to have a dataset of historical AQI data. The dataset should be in CSV format and should contain the following columns:		- Date		- AQI		- PM2.5		- PM10		- NO2		- SO2		- CO		- O3		- Temperature		- Humidity		- Wind Speed		- Wind Direction
-This is a simple AI agent that uses a neural network to predict the AQI (Air Quality Index) based on historical data. The agent is trained using the Keras library and the TensorFlow backend.
-
-This is a simple AI agent that uses a neural network to predict the AQI (Air Quality Index) based on historical data. The agent is trained using the Keras library and the TensorFlow backend.
-## Requirements
+## Requirements		
 
 - Python 3.6 or later
 - Keras
@@ -42,7 +36,7 @@ To use this agent, you will need to have a dataset of historical AQI data. The d
 
 ## Screenshots
 
-![Screenshot 1](screenshots/photo1.png)
+![Screenshot 1](screenshots/1.PNG)
 ![Screenshot 2](screenshots/photo2.png)
 
 - Wind Direction
