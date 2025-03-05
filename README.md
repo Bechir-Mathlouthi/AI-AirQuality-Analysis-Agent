@@ -37,7 +37,7 @@ To use this agent, you will need to have a dataset of historical AQI data. The d
 ## Screenshots
 
 ![Screenshot 1](screenshots/1.PNG)
-![Screenshot 2](screenshots/photo2.png)
+![Screenshot 2](screenshots/2.PNG)
 
 - Wind Direction
 	## Installation
@@ -60,13 +60,13 @@ To use this agent, you will need to have a dataset of historical AQI data. The d
 
 	## Results
 
-			- Date		- Predicted AQI		- Actual AQI		- Error
-			- Date		- Predicted AQI		- Actual AQI		- Error
-- Date
-- Predicted AQI
-- Actual AQI
+			
+			-
+	- Date
+	- Predicted AQI
+	- Actual AQI
+	- Error
 
-- Error
 	## License
 
 		This project is licensed under the MIT License. See the LICENSE file for more information.
@@ -75,7 +75,9 @@ To use this agent, you will need to have a dataset of historical AQI data. The d
 
 		Contributions are welcome! Please open an issue or submit a pull request.
 
-			## Contact
+ 	## Contact
+
+                                    Contact.bechirmathlouthi@gmail.com
 
 
 
